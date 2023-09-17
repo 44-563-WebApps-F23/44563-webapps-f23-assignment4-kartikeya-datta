@@ -1,0 +1,28 @@
+p.speech{
+    font-family: Arial, Verdana, Tahoma, sans-serif;
+    font-size: 1em;
+    color: #000000;
+}
+
+p.direction{
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 1.5em;
+    color: #000000;
+    background-color: #FF842D;
+}
+
+p.direction.hover{
+    background-color: #FFBD2D;
+}
+
+h5.nora{
+    color: #301934;
+}
+
+h5.porter{
+    color: 	#5C4033;
+}
+
+h5.helmer{
+    color: #E45780;
+}
