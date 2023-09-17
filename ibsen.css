@@ -11,7 +11,7 @@ p.direction{
     background-color: #FF842D;
 }
 
-p.direction.hover{
+p.direction:hover{
     background-color: #FFBD2D;
 }
 
