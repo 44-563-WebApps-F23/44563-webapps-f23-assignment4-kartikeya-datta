@@ -30,3 +30,19 @@ h5.porter{
 h5.helmer{
     color: #E45780;
 }
+
+table{
+    border: solid 3px #242323;
+    width: 80%;
+}
+
+th, td{
+    border: 1px solid #2d2d2d;
+    padding: 0.5em;
+    margin: 0.5em;
+    text-align: center;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
