@@ -19,6 +19,12 @@ p.direction:hover{
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: #000000;
 }
+
+.name:hover{
+    text-shadow: 2px 2px #d9ff006e;
+    border: 2px solid #0000FF;
+}
+
 h5.nora{
     color: #301934;
 }
