@@ -71,3 +71,10 @@ tr:hover {
     text-shadow: 2px 2px #870d2f6e;
     border: 2px solid #0000FF;
 }
+
+.image{
+    width:30%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
