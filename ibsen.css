@@ -21,19 +21,19 @@ p.direction:hover{
 }
 
 .name:hover{
-    text-shadow: 2px 2px #d9ff006e;
+    text-shadow: 2px 2px #d9ff0068;
     border: 2px solid #0000FF;
 }
 
-h5.nora{
+.nora{
     color: #301934;
 }
 
-h5.porter{
+.porter{
     color: 	#5C4033;
 }
 
-h5.helmer{
+.helmer{
     color: #E45780;
 }
 
@@ -51,4 +51,23 @@ th, td{
 
 tr:nth-child(even) {
     background-color: #f2f2f2;
+}
+
+tr:hover {
+    background-color:#87CEFA;
+}
+
+.nora:hover{
+    text-shadow: 2px 2px #290d2d6e;
+    border: 2px solid #0000FF;
+}
+
+.porter:hover{
+    text-shadow: 2px 2px #472f236e;
+    border: 2px solid #0000FF;
+}
+
+.helmer:hover{
+    text-shadow: 2px 2px #870d2f6e;
+    border: 2px solid #0000FF;
 }
